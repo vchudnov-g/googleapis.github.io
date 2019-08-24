@@ -11,6 +11,12 @@ Our GAPIC generators are open source and are published in
 clients in seven languages and continues to be the preferred generator for Java
 and PHP.
 
+## Configuring library and sample generation
+To configure aspect of the generated client libraries, refer to the
+documentation on protocol buffer annotations.
+
+To generate samples of client library usage for any number of the generated methods, take a look at the [sample generation guide](sample-generation.md)
+
 ## Microgenerators
 
 In 2018, we began developing a new set of generators, each written in the
